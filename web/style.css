@@ -1,0 +1,235 @@
+.body {
+	
+	background-image: linear-gradient(to right, 
+		rgba(133.0,131.0,142.0,255) 0.0%, 
+		rgba(177.0,144.0,41.0,255) 66.60465240478516%, 
+		rgba(147.0,148.0,152.0,255) 100.0%);
+
+		font-family:  Georgia, ;
+
+	text-align: center;
+	
+}
+
+
+  
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+	position: bottom;
+  }
+  
+  
+
+.banner {
+	padding: auto;
+	margin: auto;
+	border: #c664d2;
+	background-color: #d1c3dd; /* Background color of the banner */
+	padding: 20px; /* Padding for the content inside the banner */
+	text-align: center; /* Align the content to the center */
+  }
+
+  .bann {
+	list-style-type: none;
+	font-style: #5c0c7c;
+	font-family: sans-serif;
+	margin: 10px;
+	padding: 10px;
+	background-color: #c5d18f; /* Background color for the menu */
+  }
+  ul {
+	list-style-type: none;
+	margin: 10px;
+	padding: 10px;
+	background-color: #174fc9; /* Background color for the menu */
+  }
+
+  li {
+	display: inline-block;
+	margin-right: 10px; /* Adjust spacing between menu items */
+  }
+
+  a {
+	color: white; /* Text color for the menu items */
+	text-decoration: none;
+	padding: 10px 20px; /* Padding for each menu item */
+  }
+
+  a:hover {
+	background-color: #5c0c7c; /* Background color on hover */
+	margin: auto
+	border:auto;
+  }
+
+.headings{
+	background-image: linear-gradient(to right, rgba(196.0,198.0,197.0,255) 0.0%, 
+	rgba(185.0,155.0,43.0,255) 28.99197006225586%, rgba(58.0,42.0,27.0,255) 100.0%);
+}
+
+
+.b{
+	background-image: linear-gradient(to right, rgba(0.0,0.0,0.0,255) 0.0%, 
+	rgba(163.0,160.0,157.0,255) 31.388887405395508%, 
+	rgba(139.0,135.0,157.0,255) 42.12290573120117%, rgba(255.0,255.0,255.0,255) 43.88888931274414%, 
+	rgba(210.0,202.0,237.0,255) 44.24580764770508%, rgba(208.0,206.0,210.0,255) 47.43016815185547%, 
+	rgba(215.0,207.0,250.0,255) 52.03703689575195%, rgba(250.0,250.0,246.0,255) 59.329612731933594%, 
+	rgba(250.0,249.0,250.0,255) 67.15084075927734%, rgba(0.0,0.0,0.0,255) 100.0%);
+content: calc();
+margin: center;
+	color: rgb(224, 209, 226);
+}
+
+.c {
+	background-color: #21A6A6;
+}
+
+
+
+div {
+		text-align: center;
+		background-color: #b3ffb3;
+		width: 80%;
+		margin: auto;
+		border: 3px solid green;
+		
+  
+}
+.tab {
+	
+	background-color: #daabd3;
+	border: 2px solid black; 
+	border-color: rgb(180, 206, 34);
+	width: 70%;
+	margin: auto;
+	border-left-color: #b83e29;
+	border-right-color: #0934ac;
+	border-bottom-color: #319e06;
+	border-top-color:#1aada6;
+}
+
+table, th, td {
+  border: 1px solid black;
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+}
+
+.APSSDC {
+	color:blueviolet; 
+	background-color: bisque;
+	margin: auto;
+	background-position: auto;
+	padding-left: 10%;
+	padding-top: 10%;
+	padding-bottom: 10%;
+	padding-right: 10%;
+}
+
+.hidden {
+	display: none;
+  }
+  
+  #scrolling-element {
+	position: fixed;
+	bottom: 120px;
+	right: 5px;
+	background-color: #ccc;
+	padding: 5px;
+	border-radius: 5px;
+  }
+
+  .styled-image {
+    width: 200px;
+    border: 2px solid #ccc;
+	size: 70%;
+}
+
+.ecs {
+image-resolution: calc();
+margin:auto;
+}
+
+.soc{
+	image-resolution: calc();
+margin:auto;
+}
+
+.itcs {
+	image-resolution: calc();
+	margin:auto;
+	}
+	
+	.ns {
+		image-resolution: calc();
+		margin:auto;
+		}
+
+		.focs {
+			image-resolution: calc();
+			margin:auto;
+			}
+
+			.jswc {
+				image-resolution: calc();
+				margin:auto;
+				}
+
+				.image-container {
+					position: relative;
+					image-rendering:optimizeQuality;
+				  }
+				  
+				  .hover-image {
+					display: none;
+					position: static ;
+					top: 0;
+					left: 0;
+				  }
+				  
+				  .image-container:hover .hover-image {
+					display: block;
+				  }
+				  
+
+					.apssdc1 {
+						width: 620px; /* Set the width of the container */
+						height: 430px; /* Set the height of the container */
+						background-image: url('Python Programming.png'); /* Set the image URL */
+						background-size: cover; /* Adjust how the image covers the container */
+					}
+					
+				
+
+					.apssdc2 {
+						width: 620px; /* Set the width of the container */
+						height: 430px; /* Set the height of the container */
+						background-image: url('data_analysis_using_python.jpg'); /* Set the image URL */
+						background-size: cover; /* Adjust how the image covers the container */
+					}
+
+							.bovjfs {
+								image-resolution: calc();
+								margin:auto;
+								}
+
+								.p{
+									margin: auto;
+									background-color: #e27e2d;
+									width:max-content;
+
+								}
+								.p2 {
+									
+									margin: auto;
+									background-color: #15db51;
+									width: calc();
+								}
+
+.button{
+	background-color: #c45d19; 
+	font-weight: bolder;
+	padding: 0.5cm;
+	border: #b3ffb3;
+	width: auto;
+	margin: auto;
+}
